@@ -17,7 +17,7 @@ import {
   verifyGrant,
   verifyProductionBaseline,
 } from "@causeway-services/cloudflare-release-current/carrier";
-import { sha256Digest, sha256Hex } from "@red-cup-engineering/cryptographic-data-service/integrity";
+import { sha256Digest, sha256Hex } from "@red-cup-engineering/cryptographic-computer-data-engineering-services-section/integrity";
 
 const EDITORIAL_KIND = "koios.news.editorial-publication-grant/v1";
 const RELEASE_KIND = "koios.news.cloudflare-release-grant/v2";
