@@ -22,5 +22,9 @@
   "scripts": {
     "check": "node --check src/authority-ceremony.mjs && node --check bin/koios-news-authority-ceremony.mjs",
     "test": "node --test test/*.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/authority-ceremony-current.git"
   }
 }
