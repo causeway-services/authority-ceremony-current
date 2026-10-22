@@ -26,5 +26,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/causeway-services/authority-ceremony-current.git"
+  },
+  "license": "LicenseRef-561Group-1.0",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
